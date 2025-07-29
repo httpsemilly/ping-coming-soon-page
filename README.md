@@ -27,8 +27,10 @@ Página responsiva de "em breve" com sistema de captura e validação de email, 
 ## Demonstração
 
 ### Preview
-![Screenshot da aplicação (Versão desktop)](./assets/images/screenshot-desktop.png)
-![Screenshot da aplicação (Versão mobile)](./assets/images/screenshot-mobile.png)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="./assets/images/screenshot-desktop.png" alt="Versão desktop" style="width:50%;">
+  <img src="./assets/images/screenshot-mobile.png" alt="Versão mobile">
+</div>
 
 ### Links
 - **Demonstração**: [Visualizar projeto](https://seu-link-aqui.com)
