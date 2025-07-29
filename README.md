@@ -33,7 +33,7 @@ Página responsiva de "em breve" com sistema de captura e validação de email, 
 </div>
 
 ### Links
-- **Demonstração**: [Visualizar projeto](https://seu-link-aqui.com)
+- **Demonstração**: [Visualizar projeto](https://httpsemilly.github.io/ping-coming-soon-page/)
 - **Código fonte**: [Repositório GitHub](https://github.com/httpsemilly/ping-coming-soon-page)
 
 ## Considerações de Desenvolvimento
